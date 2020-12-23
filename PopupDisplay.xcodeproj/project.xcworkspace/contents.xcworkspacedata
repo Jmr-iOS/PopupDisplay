@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CustomDialogBox.xcodeproj">
+      location = "self:/Users/justin/Downloads/CustomDialogBoxes_iOS-master/PopupDisplay.xcodeproj">
    </FileRef>
 </Workspace>
