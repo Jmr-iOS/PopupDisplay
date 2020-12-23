@@ -1,12 +1,25 @@
-//
-//  ViewController.swift
-//  PopupDisplay
-//
-//  Created by Shubham Singh on 01/04/20.
-//  Copyright © 2020 Shubham Singh. All rights reserved.
-//
-
+/*----------------------------------------------------------------------------------------------------------------------------------*/
+/** @file          ViewController.swift
+ *  @brief        PopupDisplay
+ *  @details    x
+ *
+ *  @author       Justin Reina, Firmware Engineer, Company Name
+ *  @created    Created by Shubham Singh on 01/04/20.
+ *  @last rev    12/23/20
+ *
+ *
+ *  @notes        Copyright © 2020 Shubham Singh. All rights reserved.
+ *
+ *  @section    Opens
+ *    Complete Swift Syntax header content
+ *
+ *  @section    Legal Disclaimer
+ *      © Year Company Name, All rights reserved. All contents of this source file and/or any other related source files are the
+ *        explicit property of Company Name. Do not distribute. Do not copy.
+ */
+/*----------------------------------------------------------------------------------------------------------------------------------*/
 import UIKit
+
 
 class HomeViewController: UIViewController, PopUpProtocol {
     

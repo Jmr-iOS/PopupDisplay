@@ -40,6 +40,7 @@
 		51847BB524349D1D00547EBD /* CustomView.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CustomView.storyboard; sourceTree = "<group>"; };
 		51847BB72434A4EA00547EBD /* PopUpActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpActionViewController.swift; sourceTree = "<group>"; };
 		51847BBA2434D5B200547EBD /* Medium_screens.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Medium_screens.png; sourceTree = "<group>"; };
+		D0C8D48E2593B9CC00F26A9D /* StdComments.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StdComments.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		51847B812434869400547EBD = {
 			isa = PBXGroup;
 			children = (
+				D0C8D48D2593B9CC00F26A9D /* Doc */,
 				51847B8C2434869400547EBD /* PopupDisplay */,
 				51847BB92434D59B00547EBD /* Assets */,
 				51847BA82434936400547EBD /* Montserrat */,
@@ -113,6 +115,14 @@
 				51847BBA2434D5B200547EBD /* Medium_screens.png */,
 			);
 			path = Assets;
+			sourceTree = "<group>";
+		};
+		D0C8D48D2593B9CC00F26A9D /* Doc */ = {
+			isa = PBXGroup;
+			children = (
+				D0C8D48E2593B9CC00F26A9D /* StdComments.h */,
+			);
+			path = Doc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
